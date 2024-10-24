@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "surya urs",
+      "email": "surya@gmail.com",
+      "password": "12345",
+      "id": "bc25"
+    },
+    {
+      "name": "arjun sirole",
+      "email": "arjun@gmail.com",
+      "password": "67890",
+      "id": "84dc"
+    },
+    {
+      "id": "b22d",
+      "name": "hemanth",
+      "email": "hemanth@gmail.com",
+      "password": "zxcvbnm"
+    },
+    {
+      "id": "7011",
+      "name": "vishnu",
+      "email": "vishnu@gmail.com",
+      "password": "mnbvcxz"
+    },
+    {
+      "id": "b9db",
+      "name": "virat",
+      "email": "virat@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "820e",
+      "name": "Steven ",
+      "email": "steven@gmail.com",
+      "password": "lkjh"
+    }
+  ]
+}
